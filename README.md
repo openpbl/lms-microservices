@@ -1,4 +1,4 @@
-**OPEN-PBL LEARNING MANAGEMENT SYSTEM**
+# OPEN-PBL LEARNING MANAGEMENT SYSTEM
 
 **O QUE É**<br>
 OPEN-PBL LMS é um “sistema de gestão da aprendizagem” (LMS) especializado na “aprendizagem baseada em problemas” (PBL), que tem seu desenvolvimento sob a forma de código aberto à comunidade de desenvolvedores de software. O desenvolvimento do OPEN-PBL LMS é coordenado pelo COMITÊ TÉCNICO do PROJETO OPEN-PBL.<br><br>
