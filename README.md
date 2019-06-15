@@ -1,13 +1,10 @@
-# lms
-#OPEN-PBL LMS <br>
-
 **O QUE É**<br>
 OPEN-PBL LMS é um “sistema de gestão da aprendizagem” (LMS) especializado na “aprendizagem baseada em problemas” (PBL), que tem seu desenvolvimento sob a forma de código aberto à comunidade de desenvolvedores de software. O desenvolvimento do OPEN-PBL LMS é coordenado pelo COMITÊ TÉCNICO do PROJETO OPEN-PBL.<br><br>
 
 
 **QUAIS OS OBJETIVOS**<br>
-O OPEN-PBL LMS gerencia a interação entre professores, alunos e conteúdo para o correto: **planejamento**;**Aplicação** e; **medição da eficácia** das experiências de aprendizagem baseadas problemas.<br>
-O software OPEN-PBL LMS auxilia:<br>
+O OPEN-PBL LMS gerencia a interação entre professores, alunos e conteúdo para o correto: **planejamento**; **Aplicação** e; **medição da eficácia** das experiências de aprendizagem baseadas problemas.<br>
+O software OPEN-PBL LMS auxilia:
 * Os professores na criação, divulgação, aplicação e avaliação do desempenho dos alunos nas aulas de discussão dos “casos-problema” (CP).
 * Os alunos na pesquisa dos tópicos acadêmicos pré-requisitos dos casos-problema e promove a interação entre integrantes de grupos de alunos formados para preparação dos argumentos para apresentação nas aulas.<br><br>
 
@@ -30,7 +27,7 @@ Escolas e instituições de ensino em geral podem utilizar gratuitamente o códi
 
 **INTEGRAÇÕES**<br>
 O OPEN-PBL LMS centraliza um ecossistema de software educacionais gratuitos que se integram ao sistema via APIs.<br>
-Dentre as APIs disponíveis e planejadas, destacam-se:<br>
+Dentre as APIs disponíveis e planejadas, destacam-se:
 * Google Classroom 
 * Google Suite (gratuito para escolas)
 * Microsoft Active Directory 
